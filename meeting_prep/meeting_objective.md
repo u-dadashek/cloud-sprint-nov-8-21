@@ -18,6 +18,7 @@
 *(Example: Secure legal representation, Get advice on specific issue, Establish partnership, etc.)*
 
 **Your Answer:**
+Hire them for legal representation to help get my first deal done. Establish an economic relationship to get the first transaction completed. NOT looking for advice - looking for active legal partnership to execute.
 
 
 ---
