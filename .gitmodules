@@ -1,0 +1,3 @@
+[submodule "proof_state"]
+	path = proof_state
+	url = git@github.com:u-dadashek/my-first-remote-app.git
